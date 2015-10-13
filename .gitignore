@@ -1,0 +1,6 @@
+keys.py
+test.py
+*.csv
+*.pyc
+*.tde
+*.log
