@@ -1,6 +1,6 @@
-###Twitter -> Tableau
+Twitter -> Tableau
 
-#####A script to pull tweets out of twitter and push them into a Tableau Data Extract (.tde) file.
+A script to pull tweets out of twitter and push them into a Tableau Data Extract (.tde) file.
 
 Give it a term to search for and it will grab tweets as they fly by:
 ![image](https://public.tableau.com/s/sites/default/files/media/from-twitter-to-tableau-optimised.jpg)
